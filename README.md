@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm  Piyush Yeole :
-🔭 I’m currently working on: Data analysis projects using Excel, SQL, and Python  <br>👯 I’m looking to collaborate on: Real-world data analytics projects  <br>🤝 I’m looking for help with: Advanced SQL and Python for data analysis  <br>🌱 I’m currently learning: Power BI, Pandas, and data visualization  <br>💬 Ask me about: Excel, SQL queries, Python basics, and data cleaning  <br>⚡ Fun fact: I enjoy turning messy data into meaningful insights  <br>
+🔭 I’m currently working on: Data analysis projects using Excel, SQL, and Python  <br>👯 I’m looking to collaborate on: Real-world data analytics projects  <br>🤝 I’m looking for help with: Advanced SQL and Python for data analysis  <br>🌱 I’m currently learning: Power BI, Pandas, and data visualization  <br>💬 Ask me about: Excel, SQL queries, Python basics, and data cleaning  <br> 
+📫 Reach Me At: piyushyeole8081@gmail.com⚡ Fun fact: I enjoy turning messy data into meaningful insights  <br>
 
 
 ## 🌐 Socials:
